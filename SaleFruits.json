@@ -1,0 +1,52 @@
+{
+  "Fruits": [
+    {
+      "name": "Apple",
+      "description": "Apples are rich in vitamins, minerals, and antioxidants, and have been associated with many health benefits.",
+      "price": "₱200.00 per kilo",
+      "image": "apple.jpg"
+    },
+    {
+      "name": "Strawberry",
+      "description": "Strawberries' high levels of vitamin C and other antioxidants help reduce the risk of serious health issues.",
+      "price": "₱200.00 per kilo",
+      "image": "strawberry.jpg"
+    },
+    {
+      "name": "Mango",
+      "description": "Mango is rich in vitamins, minerals, and antioxidants, and it has been associated with many health benefits.",
+      "price": "₱120.00 per kilo",
+      "image": "Mango.jpg"
+    },
+    {
+      "name": "Grapes",
+      "description": "Grapes are rich in nutrients, boost immunity, provide antioxidants, and promote better sleep.",
+      "price": "₱210.00 per kilo",
+      "image": "grapes.jpg"
+    },
+    {
+      "name": "Avocado",
+      "description": "Avocados are an excellent source of beneficial fats and vitamins.",
+      "price": "₱250.00 per kilo",
+      "image": "avocado.jpg"
+    },
+    {
+      "name": "Guava",
+      "description": "Guava is rich in lycopene, a powerful antioxidant, and vitamin C.",
+      "price": "₱190.00 per kilo",
+      "image": "guava.jpg"
+    },
+    {
+      "name": "Papaya",
+      "description": "Papayas contain high levels of antioxidants that reduce inflammation.",
+      "price": "₱160.00 per kilo",
+      "image": "papaya.jpg"
+    },
+    {
+      "name": "Persimmon",
+      "description": "Persimmons are a good source of vitamins and dietary fiber.",
+      "price": "₱180.00 per kilo",
+      "image": "persimmon.jpg"
+    }
+]
+}
